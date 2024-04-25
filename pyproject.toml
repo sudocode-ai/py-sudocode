@@ -59,7 +59,7 @@ keywords = ["setuptools", "development"]  # Optional
 authors = [
   {name = "Randy Song", email = "ssh.randy@sudocode.ai"},
   {name = "Alex Ngai", email = "alex@sudocode.ai"},
-  {name = "Ning Ren", email = "ning@gmail.com"}
+  {name = "Ning Ren", email = "ning@sudocode.ai"}
 ]
 
 # This should be your name or the names of the organization who currently
@@ -68,7 +68,7 @@ authors = [
 maintainers = [
   {name = "Randy Song", email = "ssh.randy@sudocode.ai"},
   {name = "Alex Ngai", email = "alex@sudocode.ai"},
-  {name = "Ning Ren", email = "ning@gmail.com"}
+  {name = "Ning Ren", email = "ning@sudocode.ai"}
 ]
 
 # Classifiers help users find your project by categorizing it.
